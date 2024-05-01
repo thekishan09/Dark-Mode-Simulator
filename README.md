@@ -1,7 +1,7 @@
 # Dark Mode Simulator
 
 ```
-I built a user-friendly email composer Express.js and React.js where users can craft emails from scratch or use pre-made templates. It integrates with email services for sending, and offers a dynamic preview with dark and light modes (styled with CSS/Material-UI). This feature is backed by Spring Boot APIs for easy template management.
+I built a user-friendly email composer Express.js and React.js where users can craft emails from scratch or use pre-made templates. It integrates with email services for sending, and offers a dynamic preview with dark and light modes (styled with CSS/Material-UI). This feature is backed by Express APIs for easy template management.
 ```
 
 ### Node and NPM Versions
